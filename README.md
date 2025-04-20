@@ -13,5 +13,5 @@ Folders and descriptions:
   2. Reporting visualization: folder has a Power BI dashboard, designed to give insights from sales data.
   3. sql_codes: folder has all SQL-related stuff, databases created for below purposes
      a. Database design and optimization.
-     b. ETL operation, a database created for
+     b. ETL operation
      c. SQL queries, building, and stored procedures. 
