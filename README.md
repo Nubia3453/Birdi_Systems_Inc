@@ -15,3 +15,4 @@ Folders and descriptions:
      a. Database design and optimization.
      b. ETL operation
      c. SQL queries, building, and stored procedures. 
+  4. Assignment_summary.doc: a detailed document that describes the assignment's purpose, approach, process, and outcome.
