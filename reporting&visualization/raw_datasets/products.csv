@@ -1,0 +1,31 @@
+product_id,product_name,category,price
+1,Wireless Mouse,Electronics,25
+2,Keyboard,Electronics,50
+3,Phone Case,Accessories,15
+4,Headphones,Electronics,100
+5,Desk Lamp,Furniture,60
+6,Smartwatch,Electronics,150
+7,Smartphone,Electronics,700
+8,Laptop,Electronics,1000
+9,Table,Furniture,150
+10,Chair,Furniture,100
+11,Backpack,Accessories,40
+12,Game Console,Electronics,500
+13,Smart Speaker,Electronics,200
+14,Wrist Watch,Accessories,120
+15,Table Lamp,Furniture,45
+16,Laser Printer,Electronics,200
+17,Refrigerator,Appliances,800
+18,Oven,Appliances,500
+19,Microwave,Appliances,150
+20,Blender,Appliances,80
+21,Sofa,Furniture,700
+22,Air Conditioner,Appliances,350
+23,Coffee Maker,Appliances,70
+24,Juicer,Appliances,60
+25,Smart TV,Electronics,600
+26,Projector,Electronics,400
+27,Vacuum Cleaner,Appliances,130
+28,Toaster,Appliances,30
+29,Shirt,Clothing,25
+30,Jeans,Clothing,50

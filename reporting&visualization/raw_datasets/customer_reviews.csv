@@ -1,0 +1,31 @@
+review_id,order_id,product_id,rating,review_text,review_date
+1,1,1,4,Good product,2023-01-07
+2,1,3,5,Excellent quality!,2023-01-07
+3,2,4,3,Average quality,2023-01-09
+4,3,6,4,Good value for money,2023-01-12
+5,3,8,2,Not as expected,2023-01-12
+6,4,9,4,Very comfortable,2023-02-13
+7,5,7,5,Loved it,2023-02-21
+8,6,2,4,Decent,2023-03-18
+9,7,5,3,Could be better,2023-03-18
+10,8,15,5,Great product,2023-03-20
+11,9,12,4,Good sound quality,2023-04-06
+12,10,17,5,Excellent purchase,2023-04-08
+13,11,14,4,Great value,2023-05-05
+14,12,16,5,Highly recommended,2023-05-07
+15,13,5,4,Nice design,2023-06-07
+16,14,12,3,Okay but expensive,2023-06-11
+17,15,20,5,Perfect,2023-07-06
+18,16,22,3,Not as expected,2023-07-10
+19,17,13,5,Works great,2023-08-02
+20,18,1,4,Pretty good,2023-08-07
+21,19,24,3,Just fine,2023-09-06
+22,20,25,5,Very satisfied,2023-09-12
+23,21,19,4,Comfortable,2023-09-17
+24,22,26,5,Love it,2023-10-02
+25,23,21,4,Great purchase,2023-10-07
+26,24,4,4,Good buy,2023-11-06
+27,25,29,5,Very nice,2023-11-08
+28,26,30,3,Okay, 2023-11-14
+29,27,6,4,Good but pricey,2023-12-03
+30,28,8,4,Decent quality,2023-12-18
