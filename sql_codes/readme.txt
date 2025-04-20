@@ -11,3 +11,6 @@ Code summary: Below are the databases and tables used. With their purpose in thi
 
 4. Summary tables:
     to store summarized order data.
+
+
+Additionally, the 'sql_queries_related_scripts' folder has purely SQL-related code work.
