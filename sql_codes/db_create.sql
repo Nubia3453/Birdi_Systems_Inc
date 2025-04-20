@@ -9,18 +9,18 @@ create table customers (
     name varchar(50),
     email varchar(25),
     location varchar(25),
-    signup_date datetime not null,
-    birthdate datetime not null,
+    signup_date date not null,
+    birthdate date not null,
 	contact varchar(25));
     
 -- order tables
 create table orders (
 	  order_id int primary key AUTO_INCREMENT,
       customer_id int not null,
-	  order_date datetime not null,
+	  order_date date not null,
       total_amount decimal(10,2) not null,
       status varchar(25),
-      foreign key (customer_id) references customers(customer_id) );
+      foreign key (customer_id) references customers(customer_id));
 
 -- products table  
 create table products (
