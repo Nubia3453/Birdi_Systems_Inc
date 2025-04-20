@@ -5,4 +5,5 @@ This folder has dashboard-related stuff.
 
 2. sales_report.pbix:
   PowerBi report cum dashboard built for extract insights from slaes data. 
+  also, this report is saved in pdf format.
   
